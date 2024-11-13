@@ -1,5 +1,5 @@
 
-```markdown
+
 # Tic-Tac-Toe Online Game
 
 ## 🚧 **Under Development** 🚧  
@@ -16,7 +16,7 @@
 - **Frontend:** React.js
 - **Backend:** Node.js, Express.js
 - **Real-time Communication:** Socket.io
-- **Database:** MongoDB (optional for user authentication and game history)
+- **Database:** MongoDB 
 
 ## Installation and Setup Instructions
 
@@ -30,7 +30,7 @@ Make sure you have the following installed:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<ohhpeejoshi>/tic-tac-toe-online.git
+git clone https://github.com/ohhpeejoshi/tic-tac-toe-online.git
 cd tic-tac-toe-online
 ```
 
@@ -73,6 +73,6 @@ Feel free to fork this repository and submit pull requests. For major changes, p
 NONE
 
 ## Authors
-- Your Name ([GitHub Profile](https://github.com/<ohhpeejoshi>))
-- Parth ([GitHub Profile](https://github.com/<kumathepanda>))
+- Arpit Joshi ([GitHub Profile](https://github.com/ohhpeejoshi))
+- Parth ([GitHub Profile](https://github.com/kumathepanda))
 ```
